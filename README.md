@@ -8,6 +8,14 @@ Clone this repository locally (consider using [Github Desktop](https://desktop.g
 
 Then, install devbio-napari in a conda environment, following instructions [here](https://github.com/haesleinhuepf/devbio-napari#installation).
 
+From a terminal, activate the environment:
+
+    conda activate devbio-napari-env
+
+And install the extra dependencies for this repository:
+
+    conda install -c conda-forge natsort
+
 ## Usage
 
 From a terminal, activate the environment:
