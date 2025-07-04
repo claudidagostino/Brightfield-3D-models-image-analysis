@@ -1,2 +1,13 @@
+# notebook checkpoint files
 .ipynb_checkpoints
 *.pyc
+
+# images
+*.tiff
+*.tif
+
+# tables
+*.csv
+
+# models
+*.cl
