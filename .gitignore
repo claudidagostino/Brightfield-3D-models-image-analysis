@@ -11,3 +11,6 @@
 
 # models
 *.cl
+
+# config files
+*.json
